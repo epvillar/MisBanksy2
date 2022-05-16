@@ -1,0 +1,8 @@
+Este proyecto es un clone de:
+
+J. Smilga Javascript basic projects - 25 Slider
+ver code en https://github.com/john-smilga/javascript-basic-projects/tree/master/25-slider
+video not available
+
+usa module
+para verlo hay que usar el server de Visual Code y clickear abajo Go live
